@@ -1,6 +1,6 @@
 # angular2-scripts
 
-QuickStart AngularJS 2 Boilerplate to kick start your new project with SASS support and Gulp watch/build tasks
+QuickStart AngularJS 2 Boilerplate to kick start your new project.
 
 # main core get from - [www.github.com/angular/quickstart](http://www.github.com/angular/quickstart)
 
