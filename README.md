@@ -1,5 +1,6 @@
 # angular-scripts
-Simple AngularJS Boilerplate to kick start your new project with SASS support and Gulp watch/build tasks
+
+QuickStart AngularJS 2 Boilerplate to kick start your new project.
 
 # Features
 * SASS support including sourceMaps
