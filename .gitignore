@@ -1,0 +1,15 @@
+.idea
+path/package.json
+angular-scripts.iml
+angular2-scripts.iml
+path/app/*.js
+path/app/*.js.map
+path/app/*.spec.ts
+path/e2e/*.js
+path/e2e/*.js.map
+.DS_Store
+path/.DS_Store
+path/CHANGELOG.md
+path/Dockerfile
+path/LICENSE
+
