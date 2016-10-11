@@ -3,10 +3,11 @@
 QuickStart AngularJS 2 Boilerplate to kick start your new project.
 
 ## For quick install 
-```bash
-sudo npm install -g create-angular-app
 
-create-angular-app projectName
+```bash
+sudo npm install -g create-angular2-app
+
+create-angular2-app projectName
 ```
 
 ### Main core get from - [www.github.com/angular/quickstart](http://www.github.com/angular/quickstart)
